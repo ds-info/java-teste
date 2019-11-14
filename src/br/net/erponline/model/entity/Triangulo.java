@@ -1,4 +1,4 @@
-package br.net.erponline.entity;
+package br.net.erponline.model.entity;
 
 public class Triangulo {
 	private double ladoA;

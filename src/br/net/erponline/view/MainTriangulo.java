@@ -2,7 +2,7 @@ package br.net.erponline.view;
 
 import java.util.Scanner;
 
-import br.net.erponline.entity.Triangulo;
+import br.net.erponline.model.entity.Triangulo;
 
 public class MainTriangulo {
 

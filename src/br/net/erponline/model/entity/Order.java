@@ -1,9 +1,9 @@
-package br.net.erponline.entity;
+package br.net.erponline.model.entity;
 
 import java.util.Date;
 
-import br.net.erponline.entity.enums.Genere;
-import br.net.erponline.entity.enums.OrderStatus;
+import br.net.erponline.model.entity.enums.Genere;
+import br.net.erponline.model.entity.enums.OrderStatus;
 
 public class Order {
 	private int id;

@@ -2,9 +2,9 @@ package br.net.erponline.view;
 
 import java.util.Date;
 
-import br.net.erponline.entity.Order;
-import br.net.erponline.entity.enums.Genere;
-import br.net.erponline.entity.enums.OrderStatus;
+import br.net.erponline.model.entity.Order;
+import br.net.erponline.model.entity.enums.Genere;
+import br.net.erponline.model.entity.enums.OrderStatus;
 
 public class MainOrder {
 

@@ -3,7 +3,7 @@ package br.net.erponline.view;
 import java.util.Locale;
 import java.util.Scanner;
 
-import br.net.erponline.entity.Produto;
+import br.net.erponline.model.entity.Produto;
 
 public class MainProduto {
 

@@ -1,4 +1,4 @@
-package br.net.erponline.entity.enums;
+package br.net.erponline.model.entity.enums;
 
 public enum Genere {
 	MALE(0),
